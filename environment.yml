@@ -1,4 +1,4 @@
-name: cookbook-geosat
+name: geosat-cookbook
 channels:
   - conda-forge
 dependencies:
